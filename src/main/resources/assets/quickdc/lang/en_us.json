@@ -1,0 +1,6 @@
+{
+  "key.quickdc.dc": "Disconnect",
+  "key.quickdc.rc": "Reconnect to server after timeout",
+
+  "category.quickdc.quickdc": "QuickDC"
+}
